@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 '''
-Python program to create qr codes, using 
+Python program to create qr codes, using qrcode and pillow 
 '''
 
 import qrcode
